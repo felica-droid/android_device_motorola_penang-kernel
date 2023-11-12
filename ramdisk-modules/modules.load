@@ -12,5 +12,3 @@ tcpc_class.ko
 tcpc_rt1711h.ko
 tcpc_sgm7220.ko
 rt_pd_manager.ko
-moto_f_usbnet.ko
-focaltech_0flash_v2_mmi.ko
